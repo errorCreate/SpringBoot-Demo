@@ -1,0 +1,6 @@
+server:
+  port: 8082
+# 配置项目名称
+spring:
+  application:
+    name: properties
